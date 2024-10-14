@@ -3,6 +3,7 @@ The Rainbow
 Purple
 Pink
 Blue
+Indigo
 Green
 Yellow
 Unicorn
